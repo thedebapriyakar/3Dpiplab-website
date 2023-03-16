@@ -7,15 +7,13 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  👋🏻 Welcome to the
-  3D Printing and Image Processing Lab  
-  @ BITS Pilani, K.K. Birla Goa Campus
+  👋🏻 Welcome Stranger! 
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_style:
+  css_style: 
   css_class:
 ---
 
